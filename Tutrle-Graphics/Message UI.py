@@ -1,0 +1,15 @@
+from turtle import *
+write("")
+write("...........PYTHON IS AMAZING...........", font=("Arial", 16, "normal"))
+color("red")
+begin_fill()
+pensize(3)
+left(50)
+forward(133)
+circle(50,200)
+right(140)
+circle(50,200)
+forward(133) 
+delay(5000)
+end_fill()
+
